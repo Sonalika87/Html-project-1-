@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title> contact</title>
+    </head>
+    <body>
+    
+        <form>
+            <table border="1">
+                <tr><td align="left" font="blue" colspan="2">Contact us</td></tr>
+                 <tr><td> name</td><td><input type="text" placeholder="username"></td></tr>
+                 <tr><td> phone no:</td><td><input type="text" placeholder="your mobile no"></td></tr>
+                 <tr><td> Email Address:</td><td><input type="text" placeholder="optional"></td></tr>
+                 <tr><td>  Your query:</td><td><textarea placeholder="Enter Your query/message here" row="5"></textarea></td></tr>
+                </table>
+                 <br>
+                 <input type="submit" value="submit">  
+            <br>
+            <br>
+        </table>
+        </form>
+    </body>
+</html>
